@@ -1,0 +1,12 @@
+fastapi
+httpie
+jupyter
+langchain==0.3.7
+langchain_community
+langchain_google_genai
+langchain-huggingface
+pydantic
+sentencepiece
+torch
+transformers
+uvicorn
